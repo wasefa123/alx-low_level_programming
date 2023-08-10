@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - Enty point
+ * main -Entry point 
  *
- * Description:  A c prpgram that prints with put function
+ * Description: A C program with puts function
  *
- * Return Aiawys 0 (success)
+ * Return: Alawys 0 (success)
  *
 */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	puts("\""Programming is like building a multilingual puzzle");
+	return (0);	
 }
