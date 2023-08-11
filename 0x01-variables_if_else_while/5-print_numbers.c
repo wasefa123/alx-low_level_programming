@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * Description: prints the alphabet in lowercase
+ * Description: prints single digit
  *
  * Return: 0 (success)*
  *
@@ -11,12 +11,12 @@
 
 int main(void)
 {
-	int d = '0';
+	int nuw = 0;
 
-	while (d <= 9)
+	while (nuw <= 9)
 	{
-		printf("%i". d);
-		d++;
+		printf("%i", nuw);
+		nuw++;
 	}
 	printf("\n");
 
