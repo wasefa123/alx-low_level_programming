@@ -14,7 +14,7 @@ int main(void)
 	char str[] = "_putchar";
 	int w;
 
-	for (w = 0; w <= 8; w++)
+	for (w = 0; w <= 7; w++)
 		_putchar(str[w]);
 	_putchar('\n');
 	return (0);
