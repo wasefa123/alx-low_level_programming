@@ -3,9 +3,11 @@
 /**
  * Description: prints the alphabet, in lowercase in new line
  *
+ * return:0 success
+ *
 */
 
-void void print_alphabet(void)
+void print_alphabet(void)
 {
 	int w;
 
