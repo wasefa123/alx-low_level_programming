@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * Description: prints the alphabet, in lowercase in new line
- *
- * return:0 success
- *
+ * Description: print_alphabet- using the -putchar function to print
+ *           the alphabeta from a to z
 */
 
 void print_alphabet(void)
