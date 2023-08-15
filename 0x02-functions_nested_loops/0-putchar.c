@@ -15,7 +15,7 @@ int main(void)
 	int w;
 
 	for (w = 0; w <= 8; w++)
-		_putchar(str[ch]);
+		_putchar(str[w]);
 	_putchar('\n');
 	return (0);
 }
