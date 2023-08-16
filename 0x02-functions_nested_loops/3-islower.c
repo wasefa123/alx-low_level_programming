@@ -4,10 +4,11 @@
  *  _islower - function check the number
  *           if lowercase or not
  *
- * c: check intput of function _islower
+ * 0c: check intput of function _islower
  *
  *
- * Return: Always  (1) if success else (0)
+ * Return: return 1 if 'c' is lowercase
+ *         else return 0
  *
 */
 
