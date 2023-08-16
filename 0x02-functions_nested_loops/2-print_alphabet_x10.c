@@ -1,19 +1,18 @@
-#include"main.h"
+#include "main.h"
 
 /**
- * Description:  print_alphabet_x10 function that print alphabet 10 times
- *
+ * Description: print_alphabet- using the -putchar function to print
+ *           the alphabeta from a to z
 */
 
 void print_alphabet_x10(void)
 {
-	int i;
-	char w;
+	int w, m;
 
-	for (i = 0; i <= 9; i++)
+	for (m = 0; m < 10; m++)
 	{
 		for (w = 'a'; w <= 'z'; w++)
-			_putchar(w++);
+			_putchar(w);
+		_putchar('\n');
 	}
-	_putchar('\n');
 }
