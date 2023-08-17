@@ -4,7 +4,7 @@
  * _isalpha - function that checks for alphabetic character
  *            lowercase or uppercase
  *
- * 0c: takes input from other function
+ * @c: takes input from other function
  *
  * Return: 1 if c true else 0
 */
