@@ -4,7 +4,7 @@
  *  _islower - function check the number
  *           if lowercase or not
  *
- * 0c: check intput of function _islower
+ * @c: check intput of function _islower
  *
  *
  * Return: return 1 if 'c' is lowercase
