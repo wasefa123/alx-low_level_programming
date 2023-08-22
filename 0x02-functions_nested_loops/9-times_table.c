@@ -7,7 +7,7 @@
  * Return: 0 (success)
 */
 
-void times_table(void)
+int main(void)
 {
 	int d = 0;
 
