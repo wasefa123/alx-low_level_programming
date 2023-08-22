@@ -1,7 +1,9 @@
 #include<stdio.h>
 
 /**
- * Description: a function that prints the 9 times table,
+ * main - Entry point
+ *
+ * * Description: a function that prints the 9 times table,
  *                    starting with 0.
  *
  * Return: 0 (success)
